@@ -8,9 +8,9 @@
 >
 </div>
 <p align="center">
-  <a href="https://github.com/DepinKunn"><img title="Author" src="https://img.shields.io/badge/Author-DepinKunn-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/DepinKunn"><img title="Author" src="" /></a>
   <h4 align="center">
-  <a href="https://wa.me/628871746203"> THIS MY AUTHOR >//< </a>
+  <a href=""> THIS MY AUTHOR >//< </a>
 </h4>
 </p>
 
